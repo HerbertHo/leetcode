@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="SlidingWindow" />
+        <module name="HashTable" />
+        <module name="HuiSu" />
+        <module name="DongTaiGuiHua" />
+        <module name="Test" />
+        <module name="grid" />
+        <module name="Search" />
+        <module name="Tree" />
+        <module name="Sort" />
+        <module name="String" />
+        <module name="TanXin" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>
